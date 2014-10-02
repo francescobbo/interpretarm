@@ -1,4 +1,4 @@
-OUTPUT := simpi.out
+OUTPUT := interpretarm.out
 SRCS := $(shell find -type f -name "*.cpp")
 OBJS := $(SRCS:.cpp=.o)
 
